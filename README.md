@@ -7,4 +7,4 @@ Looks at vegas lines from playoff games - as well as over/under, points totals, 
 **teamPlayoffStatsScraper**: gets Home and Away teams, their scores, their rushing and passing yards, vegas spread, vegas over/under (if available)
 
 ## Instructions
-Click **teamPlayoffStats** to see outputs. Rushing/Passing analysis not yet completed.
+Click **teamPlayoffStats** to see outputs.
